@@ -6,5 +6,6 @@ services:
     environment:
       POSTGRES_USER: cadastro
       POSTGRES_PASSWORD: cadastro
+      POSTGRES_DB: cadastro
     ports:
         - "5432:5432"
