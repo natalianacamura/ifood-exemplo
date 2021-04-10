@@ -1,4 +1,4 @@
-package com.ifoodexemplo.cadastro;
+package com.github.natalianacamura.cadastro;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
